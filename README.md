@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hirendra Pratap Singh — React + Vite Portfolio
 
 ## Run locally
@@ -23,3 +24,7 @@ npm run preview
 - My Portfolio — https://myportlfolio.netlify.app/
 - Netflix Clone — from the supplied resume
 - Banking Account & Credit Card Manager — from the supplied resume
+=======
+# MyReact-Vite-Portfolio
+MyReact-Vite-Portfolio
+>>>>>>> 1904b812fcb3459b887006632200304155301a6e
